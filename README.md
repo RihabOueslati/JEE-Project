@@ -1,1 +1,2 @@
-# JEE-Project
+# JEE-Project Esprit
+Java EE sample application to simulate a event management business, with web front end and database backend.
